@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chess Queens</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_name">img</string>
+    <string name="tile">tile</string>
+    <string name="queen">queen</string>
+    <string name="wish">Congrats</string>
+    <string name="msg">You solved the puzzle</string>
+    <string name="queensleftmsg">Queens Left : 8</string>
+</resources>
